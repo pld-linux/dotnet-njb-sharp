@@ -4,7 +4,7 @@
 Summary:	.NET support for NJB players
 Name:		dotnet-njb-sharp
 Version:	0.3.0
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Libraries
 Source0:	http://banshee-project.org/files/njb-sharp/njb-sharp-%{version}.tar.gz
@@ -47,5 +47,5 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc AUTHORS ChangeLog NEWS README
-%{_prefix}/lib/njb-sharp
+%{_libdir}/njb-sharp
 %{_pkgconfigdir}/njb-sharp.pc
