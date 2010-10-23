@@ -3,7 +3,7 @@ Summary:	.NET support for NJB players
 Summary(pl.UTF-8):	Obsługa odtwarzaczy NJB z poziomu .NET
 Name:		dotnet-njb-sharp
 Version:	0.3.0
-Release:	3
+Release:	4
 License:	MIT
 Group:		Libraries
 Source0:	http://banshee-project.org/files/njb-sharp/njb-sharp-%{version}.tar.gz
