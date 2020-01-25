@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.mono
 Summary:	.NET support for NJB players
 Summary(pl.UTF-8):	Obsługa odtwarzaczy NJB z poziomu .NET
 Name:		dotnet-njb-sharp
